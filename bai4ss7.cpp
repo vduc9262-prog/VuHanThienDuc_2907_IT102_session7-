@@ -23,8 +23,9 @@ int main (){
         for (j = 0; j < n; j++) {
             printf("* ");
         }
-        printf("\n");  // Xu?ng dòng sau m?i hàng
+        printf("\n"); 
     }
 
     return 0;
 }
+
